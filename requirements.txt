@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+SpeechRecognition==3.10.0
+pyaudio==0.2.13
+numpy==1.24.3
+wave==0.0.2 
